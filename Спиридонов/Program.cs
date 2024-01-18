@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-("Hello, World! spiridonov")
+Console.WriteLine("Hello,spiridonov!");
+Console.WriteLine("Hello,maksim!");
